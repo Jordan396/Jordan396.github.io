@@ -1,4 +1,4 @@
-# Project Portfolio
+# My Projects
 ## Featured Projects
 - [Audio-Transcriber-SPA](https://jordan396.github.io/Audio-Transcriber-SPA/): Single Page Web Application to convert Speech-to-Text.
 - [trivial-twitter-v2](https://jordan396.github.io/trivial-twitter-v2/): Simplistic simulation of twitter with support for multiple concurrent and persistent connections.
