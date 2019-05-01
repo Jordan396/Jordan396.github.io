@@ -20,4 +20,4 @@
 
 ---
 
-Visit (here)[https://tinyurl.com/y5pympel] to view my resume.
+Click [here](https://tinyurl.com/y5pympel) to view my resume.
